@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 学習 3 周目。  
+今回は API モードで実装する
 
-Things you may want to cover:
+## TODO
 
-* Ruby version
+- [ ] Rails API モードで `bin/rails generate authentication` を利用したところ、エラーが発生したため、作戦変更する
 
-* System dependencies
+## コマンド
 
-* Configuration
+| コマンド         | 内容                   |
+| ---------------- | ---------------------- |
+| bin/rails server | サーバーを起動         |
+| bin/rails routes | URL パターン一覧を表示 |
 
-* Database creation
+## 参考リンク
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Rails による API 専用アプリケーション](https://railsguides.jp/api_app.html)
+- [Rails8 API モードで JWT 認証をやってみた](https://zenn.dev/forge422/articles/c24fc1674f8076)
