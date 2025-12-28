@@ -3,6 +3,12 @@
 Rails 学習 3 周目。  
 今回は API モードで実装する
 
+## TODO
+
+- [ ] Rails API モードで `bin/rails generate authentication` を利用したところ、エラーが発生したため、作戦変更する
+
+## コマンド
+
 | コマンド         | 内容                   |
 | ---------------- | ---------------------- |
 | bin/rails server | サーバーを起動         |
